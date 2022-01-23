@@ -1,0 +1,2 @@
+本网站文件由计算机001班曾锦程完成，使用的是垂直导航栏的方法进行网页布局，其中使用了CSS和Html语言，以及bootstrap包来完成标签页导航栏布局。
+个人github主页https://github.com/CowboyZJC/homerwork-of-zjc
